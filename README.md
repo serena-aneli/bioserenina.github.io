@@ -1,6 +1,9 @@
-## Welcome to Xchr_Recombulator
+## Welcome to Xchr RECOMBULATOR
 
 ![tool logo](/docs/assets/images/LOGO.png)
+
+- :octocat: [GitHub site](https://github.com/bioserenina/Xchr_recombulator)
+- :open_book: [Documentations](https://bioserenina.github.io/Xchr_recombulator/)
 
 You can use the [editor on GitHub](https://github.com/bioserenina/bioserenina.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
