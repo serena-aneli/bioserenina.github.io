@@ -2,4 +2,6 @@ remote_theme: rundocs/jekyll-rtd-theme
 #theme: jekyll-theme-leap-day
 
 plugins:
+  - jekyll-remote-theme
   - jemoji
+  - jekyll-gist
