@@ -1,6 +1,6 @@
 ## Welcome to Xchr_Recombulator
 
-add picture
+![Book logo](/least-github-pages/assets/logo.png)
 
 You can use the [editor on GitHub](https://github.com/bioserenina/bioserenina.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
