@@ -1,2 +1,5 @@
 remote_theme: rundocs/jekyll-rtd-theme
 #theme: jekyll-theme-leap-day
+
+plugins:
+  - jemoji
