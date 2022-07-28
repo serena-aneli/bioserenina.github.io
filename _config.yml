@@ -5,3 +5,5 @@ plugins:
   - jekyll-remote-theme
   - jemoji
   - jekyll-gist
+
+theme: jekyll-theme-cayman
