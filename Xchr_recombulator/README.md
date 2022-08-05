@@ -1,6 +1,6 @@
 ## Welcome to Xchr RECOMBULATOR
 
-![tool logo](/docs/assets/images/LOGO.png)
+![tool logo](docs/assets/images/LOGO.png)
 
 - :octocat: [GitHub site](https://github.com/bioserenina/Xchr_recombulator/)
 - :open_book: [Documentations](https://bioserenina.github.io/Xchr_recombulator/)
